@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yubraj Bhoi</title>
+    <link>https://yubrajbhoi.githun.io/</link>
+    <description>Recent content on Yubraj Bhoi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2024 06:51:27 +0000</lastBuildDate>
+    <atom:link href="https://yubrajbhoi.githun.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://yubrajbhoi.githun.io/posts/my-first-post/</link>
+      <pubDate>Sun, 11 Feb 2024 06:51:27 +0000</pubDate>
+      <guid>https://yubrajbhoi.githun.io/posts/my-first-post/</guid>
+      <description>My First Blog Post Link to heading Hello, World!</description>
+    </item>
+  </channel>
+</rss>
